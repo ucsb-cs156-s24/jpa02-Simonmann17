@@ -5,7 +5,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-s24/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-s24/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-s24/jpa02-Simonmann17
 
 Deployed at: http://jpa02-simonmann17.dokku-12.cs.ucsb.edu
 
